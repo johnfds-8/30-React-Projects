@@ -1,0 +1,52 @@
+.btn{
+  position: fixed;
+  inset: 0;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+
+}
+
+
+button {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+span {
+  font-weight: 900;
+  width: 50px;
+  display: inline-block;
+  text-align: center;
+   font-weight: 600;
+  font-size: 30px;
+}
+
+.reset{
+  background-color: black;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  box-shadow: rgb(58, 29, 29);
+  box-shadow: 5cqh;
+}
+
+.reset:hover{
+  background-color: rgb(116, 9, 9);
+ transition-duration: 0.4s;
+}
+
+
+
+
+
+
+
+
+
+
+
