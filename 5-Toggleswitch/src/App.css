@@ -1,0 +1,21 @@
+.container{
+position: fixed;
+  inset: 0;
+  width: fit-content;
+  height: 70%;
+  margin: auto;
+}
+
+.box{
+  height: 50px;
+  width: 20px;
+  color: aqua;
+
+}
+
+p{
+ font-weight: 800;
+ font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+}
+
