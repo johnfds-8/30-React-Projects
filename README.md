@@ -1,4 +1,4 @@
-# 30 React JS Practice Problems 
+# React JS Practice With 30 Problems.
 
 [1.Hello World](././1-HelloWorld) => 
 create a simple "Hello World" React component.
