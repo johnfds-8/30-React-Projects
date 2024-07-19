@@ -1,4 +1,4 @@
-## Master React JS with These 30 Practice Problems
+## Master React JS with These 30 Practice Problems.
 
 
 [1.Hello World](././1-HelloWorld) => 
