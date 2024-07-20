@@ -22,3 +22,7 @@ Implement a basic toggle swich component.
 
 [6.FetchData](././6-Fetchdata) =>
 Create a Component that fetches data from an API and Display it.
+
+[7.Timer](././7-Timer) =>
+Build a Timer that counts down from a Specified time.
+
