@@ -26,3 +26,6 @@ Create a Component that fetches data from an API and Display it.
 [7.Timer](././7-Timer) =>
 Build a Timer that counts down from a Specified time.
 
+
+[8.BG Chsnge with Click](././8-BGChangeColor) =>
+Create a component that Change its Background color when button cliked.
