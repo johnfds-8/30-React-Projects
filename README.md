@@ -33,3 +33,7 @@ Create a component that Change its Background color when button cliked.
 
 [9.Random Quote](././9-RandomQuote) =>
 Create a component that display a random quote each time it is rendred.
+
+
+[10.Upload Image](././10-UploadImage) =>
+Build a File uploader Componet that allows user to upload images.
