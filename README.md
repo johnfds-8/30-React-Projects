@@ -29,3 +29,7 @@ Build a Timer that counts down from a Specified time.
 
 [8.BG Chsnge with Click](././8-BGChangeColor) =>
 Create a component that Change its Background color when button cliked.
+
+
+[9.Random Quote](././9-RandomQuote) =>
+Create a component that display a random quote each time it is rendred.
