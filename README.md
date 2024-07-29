@@ -39,4 +39,4 @@ Create a component that display a random quote each time it is rendred.
 Build a File uploader Componet that allows user to upload images.
 
 
-[11.Login Register page] (././11-LoginReg) => Implement a basic authentication form login and registration.
+[Login Page](././11-LoginReg) => Implement a basic authentication form login and registration.
