@@ -39,4 +39,9 @@ Create a component that display a random quote each time it is rendred.
 Build a File uploader Componet that allows user to upload images.
 
 
-[Login Page](././11-LoginReg) => Implement a basic authentication form login and registration.
+[11.Login Page](././11-LoginReg) => Implement a basic authentication form login and registration.
+
+
+[12.Weather Api](././12-WeatherApp) => 
+
+[13.Search Item](././13-SearchItem) => Build a Search bar that filter a list of items based on user input
