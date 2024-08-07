@@ -42,6 +42,9 @@ Build a File uploader Componet that allows user to upload images.
 [11.Login Page](././11-LoginReg) => Implement a basic authentication form login and registration.
 
 
-[12.Weather Api](././12-WeatherApp) => 
+[12.Weather Api](././12-WeatherApp) => Develop a weather app that fethes and displays weather information based on a users loctaion
 
 [13.Search Item](././13-SearchItem) => Build a Search bar that filter a list of items based on user input
+
+
+[14.Pagination](././14-Pagination) => Develop a pagination component to navigate through a large list of items
