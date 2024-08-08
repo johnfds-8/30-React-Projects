@@ -12,16 +12,13 @@ function App() {
     }
   }, [time])
 
-
-
-
   return (
     <div>
       <center>Timer Left :{time} seconds
-   
+
       </center>
 
-     
+
     </div>
   )
 }
